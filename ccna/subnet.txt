@@ -1,6 +1,0 @@
-BRANCH site has been provided a major network 2.2.2.0/25. You must to create some subnets, including:
-- LAN-60: prefix-length=26, using the 3rd IP address for virtual IP address of HRSP group (???)
-          the 4th IP address assigns to WEB server www.learns.vn ; the 5th IP address assigns to FTP server. (2.2.2.0/26)
-- LAN-30: prefix-length=27 (2.2.2.64/27)
-- LINK-1, LINK-2: prefix-length=30 (2.2.2.96/30,2.2.2.100/30)
-
